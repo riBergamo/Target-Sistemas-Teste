@@ -5,7 +5,7 @@ import java.io.*;
 class Soma {
     public static void main(String[] args) {
         //3)int INDICE = 12, SOMA = 0, K = 1; 
-        //    enquanto K < INDICE faça { 
+        //    enquanto K < INDICE faça {  
         //    K = K + 1; SOMA = SOMA + K; 
         //    } 
         //    imprimir(SOMA);
