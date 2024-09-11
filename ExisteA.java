@@ -4,7 +4,7 @@ import java.io.*;
 
 class ExisteA {
     public static void main(String[] args) {
-        //2) Existência da letra ‘a’, maiúscula ou minúscula, quantidade de vezes em que ela ocorre.
+        //2) Existência da letra ‘a’, maiúscula ou minúscula, quantidade de vezes em que ela ocorre. 
         String palavra = "Amar";
         char letra = 'a';
         int quantVezes = 0;
