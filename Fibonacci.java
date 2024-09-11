@@ -4,7 +4,7 @@ import java.io.*;
 
 class Fibonacci {
     public static void main(String[] args) {
-        //1) Fibonacci
+        //1) Fibonacci 
         Scanner scanner = new Scanner(System.in);
     
         int numeroDesejado = 0;
